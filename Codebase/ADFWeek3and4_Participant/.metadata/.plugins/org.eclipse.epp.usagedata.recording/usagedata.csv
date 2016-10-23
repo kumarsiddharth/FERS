@@ -1,0 +1,9 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.mylyn.bugzilla.ui,3.8.0.v20120612-0600,"org.eclipse.mylyn.bugzilla.ui",1344520756488
+stopped,bundle,org.eclipse.mylyn.bugzilla.core,3.8.0.v20120612-0600,"org.eclipse.mylyn.bugzilla.core",1344520756488
+stopped,bundle,org.eclipse.mylyn.commons.xmlrpc,3.8.0.v20120612-0600,"org.eclipse.mylyn.commons.xmlrpc",1344520756488
+stopped,bundle,org.eclipse.datatools.enablement.oda.ws.ui,1.2.3.v201112061438,"org.eclipse.datatools.enablement.oda.ws.ui",1344520756488
+stopped,bundle,org.eclipse.datatools.enablement.oda.ws,1.2.3.v201112061438,"org.eclipse.datatools.enablement.oda.ws",1344520756488
+stopped,bundle,org.eclipse.wst.wsdl,1.2.202.v201108230355,"org.eclipse.wst.wsdl",1344520756503
+stopped,bundle,org.eclipse.wst.wsdl.validation,1.1.502.v201104071820,"org.eclipse.wst.wsdl.validation",1344520756503
+stopped,bundle,org.eclipse.wst.xsl.exslt.ui,1.0.0.v201006012005,"org.eclipse.wst.xsl.exslt.ui",1344520756534

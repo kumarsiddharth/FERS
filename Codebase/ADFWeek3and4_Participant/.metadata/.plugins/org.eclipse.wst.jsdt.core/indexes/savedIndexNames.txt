@@ -1,0 +1,8 @@
+INDEX VERSION 1.122+C:\ADFJava\Codebase\ADFWeek3and4_Faculty\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3270698716.index
+2386529833.index
+830913331.index
+3657452840.index
+2828003977.index
+3417742089.index
+2134411794.index

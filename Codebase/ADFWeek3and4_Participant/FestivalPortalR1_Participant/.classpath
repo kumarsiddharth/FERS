@@ -8,11 +8,145 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6">
-		<attributes>
-			<attribute name="owner.project.facets" value="java"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/easymock-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.asm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.beans-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.context.support-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.context-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.core-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.expression-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.instrument.tomcat-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.instrument-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.jdbc-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.jms-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.orm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.oxm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.test-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.transaction-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.web.servlet-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/org.springframework.web-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/aspectjrt-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/aspectjrt-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/com.springsource.org.apache.commons.collections-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/hibernate-annotations-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/hibernate-commons-annotations-3.3.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/hibernate-core-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/hibernate-entitymanager-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/mysql-connector-java-5.1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-aop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-beans.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-beans-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-context.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-context-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-context-support.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-core-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-jms.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-modules-validation-0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-orm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-tx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-tx-2.5.6.SEC03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-webmvc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-webmvc-portlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/spring-webmvc-struts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/3.Week4 - Extension Topics/Libraries/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/easymock-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.asm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.beans-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.context.support-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.context-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.core-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.expression-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.instrument.tomcat-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.instrument-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.jdbc-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.jms-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.orm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.oxm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.test-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.transaction-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.web.servlet-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/Java/2 Week2 and Week3 (SIMULATION))/Libraries/org.springframework.web-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/aspectjrt-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/aspectjrt-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/com.springsource.org.apache.commons.collections-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/hibernate-annotations-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/hibernate-commons-annotations-3.3.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/hibernate-core-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/hibernate-entitymanager-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/mysql-connector-java-5.1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-aop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-beans.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-beans-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-context.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-context-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-context-support.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-core-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-jms.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-modules-validation-0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-orm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-tx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-tx-2.5.6.SEC03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-webmvc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-webmvc-portlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/spring-webmvc-struts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/Libraries/validation-api-1.0.0.GA.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

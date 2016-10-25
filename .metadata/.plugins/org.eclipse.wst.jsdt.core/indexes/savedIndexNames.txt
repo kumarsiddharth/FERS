@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\training_b6b.01.02\Desktop\FERS\FERS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+763203585.index
+976576724.index
+3692116362.index
+3735965888.index
+2134411794.index
+3860660754.index

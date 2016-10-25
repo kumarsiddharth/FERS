@@ -67,6 +67,27 @@ public class EventDAO {
 		ArrayList<Event> eventList = new ArrayList<Event>();
 		log.info("All Events retreived from Database :" + eventList);
 		
+		connection= FERSDataConnection.createConnection();
+		statement=connection.prepareStatement(query.getSearchEvent());
+		resultSet=statement.executeQuery();
+		
+		Event event=new Event();
+		
+		
+		while(resultSet.next()){
+			event.setEventid(resultSet.getInt("eventid"));
+			event.setName(resultSet.getString("name"));
+			event.setDescription(resultSet.getString("description"));
+			event.setPlace(resultSet.getString("place"));
+			event.setDuration(resultSet.getString("duration"));
+			event.setEventtype(resultSet.getString("eventtype"));
+			event.setSeatsavailable(resultSet.getInt("seatsavailable"));
+					
+					
+			
+			eventList.add(event);
+		}
+		
         // TODO:  Add code here.....
 		// TODO:  Pseudo-code are in the block comments above this method
 		// TODO:  For more comprehensive pseudo-code with details, refer to the Component/Class Detailed Design Document   
@@ -96,16 +117,32 @@ public class EventDAO {
 	 */
 	
 	public void updateEventNominations(int eventid)
-			throws ClassNotFoundException, SQLException, Exception {
+			throws FERSGenericException,ClassNotFoundException, SQLException, Exception {
+		
+		
+		
+			connection= FERSDataConnection.createConnection();
+			statement= connection.prepareStatement(query.getUpdateEvent());
+			statement.setInt(1, eventid);
+			
+			
+			int status = statement.executeUpdate();
+
+			if (status <= 0)
+
+				throw new FERSGenericException("event record was not updated",
+						new Exception());
+			log.info("Event registration status was updated in Database and Seat released");
+			FERSDataConnection.closeConnection();
 		
 		
 		// TODO:  Add code here.....
 		// TODO:  Pseudo-code are in the block comments above this method
 		// TODO:  For more comprehensive pseudo-code with details, refer to the Component/Class Detailed Design Document   
-
+	}
 		
 
-	}
+	
 
 	/**
 	 * <br/>
@@ -136,7 +173,13 @@ public class EventDAO {
 		// TODO:  Add code here.....
 		// TODO:  Pseudo-code are in the block comments above this method
 		// TODO:  For more comprehensive pseudo-code with details, refer to the Component/Class Detailed Design Document   
-
+		connection = FERSDataConnection.createConnection();
+		statement = connection.prepareStatement(query.getCheckEvent());
+		statement.setInt(1, eventid);
+		statement.setInt(2, visitor.getVisitorId());
+		
+		status = statement.executeUpdate();
+		
 		if (status >= 1)
 			return true;
 		else

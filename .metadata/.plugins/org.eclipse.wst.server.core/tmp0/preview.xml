@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="FestivalPortalR1_Participant" name="FestivalPortalR1_Participant" path="C:/Users/training_b6b.01.02/Desktop/FERS/FERS/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/FestivalPortalR1_Participant" type="j2ee"/>
+</server>

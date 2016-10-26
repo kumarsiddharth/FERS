@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestEventController" project="FestivalPortalR1_Participant" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.accenture.adf.test.TestEventController" time="0.163">
+    <testcase name="testGetAvailableEvents_Positive" classname="com.accenture.adf.test.TestEventController" time="0.162"/>
+    <testcase name="testGetAvailableEvents_Negative" classname="com.accenture.adf.test.TestEventController" time="0.001"/>
+  </testsuite>
+</testrun>

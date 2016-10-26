@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestEventDAO" project="FestivalPortalR1_Participant" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="com.accenture.adf.test.TestEventDAO" time="0.809">
+    <testcase name="testShowAllEvents_Positive" classname="com.accenture.adf.test.TestEventDAO" time="0.288"/>
+    <testcase name="testUpdateEventDeletions_Positive" classname="com.accenture.adf.test.TestEventDAO" time="0.048"/>
+    <testcase name="testUpdateEventDeletions_Negative" classname="com.accenture.adf.test.TestEventDAO" time="0.047"/>
+    <testcase name="testUpdateEventNominations_Positive" classname="com.accenture.adf.test.TestEventDAO" time="0.299"/>
+    <testcase name="testUpdateEventNominations_Negative" classname="com.accenture.adf.test.TestEventDAO" time="0.049"/>
+    <testcase name="testCheckEventsOfVisitor_Positive" classname="com.accenture.adf.test.TestEventDAO" time="0.078"/>
+  </testsuite>
+</testrun>

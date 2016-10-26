@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestVisitorController" project="FestivalPortalR1_Participant" tests="11" started="11" failures="0" errors="0" ignored="0">
+  <testsuite name="com.accenture.adf.test.TestVisitorController" time="1.102">
+    <testcase name="testNewVisitor_Positive" classname="com.accenture.adf.test.TestVisitorController" time="0.741"/>
+    <testcase name="testNewVisitor_Negative" classname="com.accenture.adf.test.TestVisitorController" time="0.048"/>
+    <testcase name="testSearchVisitor_Positive" classname="com.accenture.adf.test.TestVisitorController" time="0.038"/>
+    <testcase name="testSearchVisitor_Negative" classname="com.accenture.adf.test.TestVisitorController" time="0.039"/>
+    <testcase name="testRegisterVisitor_Positive" classname="com.accenture.adf.test.TestVisitorController" time="0.034"/>
+    <testcase name="testRegisterVisitor_Negative" classname="com.accenture.adf.test.TestVisitorController" time="0.037"/>
+    <testcase name="testUpdateVisitor_Positive" classname="com.accenture.adf.test.TestVisitorController" time="0.036"/>
+    <testcase name="testUpdateVisitor_Negative" classname="com.accenture.adf.test.TestVisitorController" time="0.039"/>
+    <testcase name="testUnregisterEvent_Positive" classname="com.accenture.adf.test.TestVisitorController" time="0.036"/>
+    <testcase name="testUnregisterEvent_Negative" classname="com.accenture.adf.test.TestVisitorController" time="0.031"/>
+    <testcase name="testSearchVisitor_Negative_InvalidUser" classname="com.accenture.adf.test.TestVisitorController" time="0.023"/>
+  </testsuite>
+</testrun>
